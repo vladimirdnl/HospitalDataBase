@@ -1,0 +1,25 @@
+Birthday:
+12
+2
+1950
+Datein:
+30
+4
+2019
+11
+25
+First Diagnosis:
+test
+Check up data(Analysis):
+test
+Consultation:
+test
+Drugs:
+test
+Doctor:
+Babina Valentina Nikolaevna
+Room number:
+9
+Isout:
+0
+Dateout:

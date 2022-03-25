@@ -1,0 +1,12 @@
+Birthday:
+6
+3
+1953
+Position:
+f
+Category:
+IV
+Experience(in years) :
+1.000000
+Cellphone Number:
++6321457

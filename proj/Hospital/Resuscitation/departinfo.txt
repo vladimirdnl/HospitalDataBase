@@ -1,0 +1,6 @@
+Patients number:
+1
+Doctors number:
+1
+First room:
+151

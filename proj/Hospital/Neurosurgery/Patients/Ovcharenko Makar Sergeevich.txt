@@ -1,0 +1,25 @@
+Birthday:
+3
+6
+2000
+Datein:
+6
+9
+2018
+6
+3
+First Diagnosis:
+a bad headache
+Check up data(Analysis):
+OK
+Consultation:
+No
+Drugs:
+paracetamol
+Doctor:
+Other
+Room number:
+450
+Isout:
+0
+Dateout:

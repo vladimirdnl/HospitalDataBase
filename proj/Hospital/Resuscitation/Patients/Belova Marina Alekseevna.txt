@@ -1,0 +1,30 @@
+Birthday:
+10
+5
+1989
+Datein:
+9
+9
+2019
+5
+3
+First Diagnosis:
+test
+Check up data(Analysis):
+test
+Consultation:
+test
+Drugs:
+testtt
+Doctor:
+Ninova Darya Ivanovna
+Room number:
+156
+Isout:
+1
+Dateout:
+9
+10
+2019
+5
+3

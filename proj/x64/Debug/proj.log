@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\данилов.владимир\desktop\danylov_hospital_project\hospitalready\proj\otherstuff.h(280): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\данилов.владимир\desktop\danylov_hospital_project\hospitalready\proj\hospital.h(310): warning C4477: 'fscanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'bool *'
+  proj.vcxproj -> C:\Users\Данилов.Владимир\Desktop\Danylov_Hospital_Project\HospitalREADY\x64\Debug\proj.exe
